@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mobiletcm">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Ayoike"
+        android:roundIcon="@mipmap/ic_tela_logo_splash_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MobileTcm">
+        <activity
+            android:name=".Serviços.DetalhesServicosActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Serviços.ConsultarServicosActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Serviços.CadastrarServicosActivity"
+            android:exported="false"
+            android:parentActivityName=".Serviços.ServicosActivity"/>
+        <activity
+            android:name=".CadastrarActivity"
+            android:exported="false"
+            android:parentActivityName=".Login.TelaLogin" />
+        <activity
+            android:name=".Sobre.SobreActivity"
+            android:exported="false"
+            android:parentActivityName=".MenuActivity" />
+        <activity
+            android:name=".Serviços.Servicos2Activity"
+            android:exported="false"
+            android:parentActivityName=".Serviços.ServicosActivity" />
+        <activity
+            android:name=".Cliente.ConsultarCliActivity"
+            android:exported="false"
+            android:parentActivityName=".Cliente.ClienteActivity" />
+        <activity
+            android:name=".Cliente.DetalhesClienteActivity"
+            android:exported="false"
+            android:parentActivityName=".Cliente.ConsultarCliActivity" />
+        <activity
+            android:name=".Cliente.ClienteActivity"
+            android:exported="false"
+            android:parentActivityName=".MenuActivity" />
+        <activity
+            android:name=".Socio.DetalhesActivity"
+            android:exported="false"
+            android:parentActivityName=".Socio.ConsultasActivity" />
+        <activity
+            android:name=".Socio.CadastrarSocioActivity"
+            android:exported="false"
+            android:parentActivityName=".MenuActivity" />
+        <activity
+            android:name=".Mapa.MapaActivity"
+            android:exported="false"
+            android:parentActivityName=".MenuActivity" />
+        <activity
+            android:name=".Socio.ConsultasActivity"
+            android:exported="false"
+            android:parentActivityName=".MenuActivity" />
+        <activity
+            android:name=".Serviços.ServicosActivity"
+            android:exported="false"
+            android:parentActivityName=".MenuActivity" />
+        <activity
+            android:name=".MenuActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Login.TelaLogin"
+            android:exported="false" />
+        <activity
+            android:name=".Splash.SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

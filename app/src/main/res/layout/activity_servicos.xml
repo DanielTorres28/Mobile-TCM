@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#215B61"
+    android:clipToPadding="true"
+    tools:context="com.example.mobiletcm.Serviços.ServicosActivity">
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="237dp"
+        android:layout_height="129dp"
+        android:layout_marginTop="12dp"
+        android:background="@drawable/meu_texto"
+        android:text="Nossos artistas não só podem como vão te impressionar com suas artes. Exatamente do jeito que você imagina para a sua empresa, passando todas as mensagens que a representam."
+        android:textAlignment="center"
+        android:textColor="#101010"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView10"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="125dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="8dp"
+        android:text="Design"
+        android:textAlignment="center"
+        android:textColor="#101010"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView12" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="185dp"
+        android:layout_height="29dp"
+        android:layout_marginTop="8dp"
+        android:text="Banco de Dados"
+        android:textAlignment="center"
+        android:textColor="#101010"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView11" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="125dp"
+        android:layout_height="30dp"
+        android:text="Infraestrutura "
+        android:textColor="#101010"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.007" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="244dp"
+        android:layout_height="183dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/meu_texto"
+        android:text="Nossa equipe de infraestrutura realiza para a sua empresa toda a planta de seu estabelecimento de acordo com que melhor se adequa a suas necessidades e desejos. Além de te ajudar com o orçamento de todos os equipamentos que complementaram o ambiente."
+        android:textAlignment="center"
+        android:textColor="#101010"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.476"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView8" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="243dp"
+        android:layout_height="105dp"
+        android:layout_marginTop="4dp"
+        android:background="@drawable/meu_texto"
+        android:text="Os analistas de banco de dados certamente vão aprimorar toda a estrutura por trás da armazenagem de dados do sistema de sua empresa."
+        android:textAlignment="center"
+        android:textColor="#101010"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView9" />
+
+    <TextView
+        android:id="@+id/VerMais"
+        android:layout_width="67dp"
+        android:layout_height="25dp"
+        android:text="Ver Mais"
+        android:textColor="#101010"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView13"
+        app:layout_constraintVertical_bias="0.115" />
+
+    <Button
+        android:id="@+id/CadastrarServicos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/meu_button"
+        android:text="Cadastrar Serviços"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/VerMais"
+        app:layout_constraintVertical_bias="0.0" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

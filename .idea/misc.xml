@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/Desktop/Etec/PAM/Mobile-TCM-VDD/MobileTcm/app/src/main/res/layout/activity_consultas.xml" value="0.2548245614035088" />
+        <entry key="..\:/Users/user/Desktop/Etec/PAM/Mobile-TCM-VDD/MobileTcm/app/src/main/res/layout/activity_login.xml" value="0.2548245614035088" />
+        <entry key="..\:/Users/user/Desktop/Etec/PAM/Mobile-TCM-VDD/MobileTcm/app/src/main/res/layout/activity_mapa.xml" value="0.2548245614035088" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/drawable/container_componentes.xml" value="0.17777777777777778" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.26842105263157895" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/drawable/imagem.xml" value="0.26842105263157895" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/drawable/login.xml" value="0.26842105263157895" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/drawable/meu_button.xml" value="0.31875" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/drawable/meu_fundo.xml" value="0.26842105263157895" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/drawable/meu_texto.xml" value="0.26153846153846155" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/drawable/side_nav_bar.xml" value="0.26842105263157895" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/layout-w936dp/activity_login.xml" value="0.226953125" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/layout/acitivity_cadastrar_socio.xml" value="0.2548245614035088" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/layout/activity_base.xml" value="0.2548245614035088" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/layout/activity_cadastrar.xml" value="0.2548245614035088" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/layout/activity_cadastrar_servicos.xml" value="0.2548245614035088" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/layout/activity_cadastrar_socio.xml" value="0.2264151024877837" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/layout/activity_cliente.xml" value="0.2988679352838745" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/layout/activity_consultar_cli.xml" value="0.2988679352838745" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/layout/activity_consultar_cliente.xml" value="0.2548245614035088" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/layout/activity_consultar_servicos.xml" value="0.2548245614035088" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/layout/activity_consultas.xml" value="0.2988679352838745" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/layout/activity_detalhes.xml" value="0.2548245614035088" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/layout/activity_detalhes_cliente.xml" value="0.2548245614035088" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/layout/activity_detalhes_servicos.xml" value="0.2548245614035088" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/layout/activity_main.xml" value="0.3026041666666667" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/layout/activity_mapa.xml" value="0.2988679352838745" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/layout/activity_menu.xml" value="0.2988679352838745" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/layout/activity_servicos.xml" value="0.4528302049755674" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/layout/activity_servicos2.xml" value="0.2988679352838745" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/layout/activity_sobre.xml" value="0.4528302049755674" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/layout/activity_splash.xml" value="0.3026041666666667" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/layout/app_bar_sobre.xml" value="0.2548245614035088" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/layout/content_sobre.xml" value="0.3026041666666667" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/layout/fragment_gallery.xml" value="0.2548245614035088" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/layout/fragment_home.xml" value="0.3026041666666667" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/layout/fragment_slideshow.xml" value="0.2548245614035088" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/layout/nav_header_sobre.xml" value="0.2548245614035088" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/layout/seila.xml" value="0.2548245614035088" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/menu/activity_main_drawer.xml" value="0.2548245614035088" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/menu/sobre.xml" value="0.2548245614035088" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/mipmap-anydpi-v26/ic_logo_Splash.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/mipmap-anydpi-v26/ic_tela_logo_splash.xml" value="0.26842105263157895" />
+        <entry key="..\:/Users/user/Desktop/Mobile-TCM-VDD/MobileTcm/app/src/main/res/mipmap-anydpi-v26/ic_tela_logo_splash_round.xml" value="0.26842105263157895" />
+        <entry key="..\:/Users/user/Desktop/Projeto/Mobile/Mobile-TCM-VDD/MobileTcm/app/src/main/res/layout/activity_cliente.xml" value="0.2548245614035088" />
+        <entry key="..\:/Users/user/Desktop/Projeto/Mobile/Mobile-TCM-VDD/MobileTcm/app/src/main/res/layout/activity_login.xml" value="0.2548245614035088" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
